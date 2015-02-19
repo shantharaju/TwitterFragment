@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/exploded-aar/it.sephiroth.android.library/pagerslidingtabstrip/1.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ac8f7dcddf106a5674421a2d585867e5135f4806">
+        <dex dex="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/classes-7e2f3c8949ee8fab84ca97a0a22f79ee6d824c2e.jar" />
+    </item>
+    <item
+        jar="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/classes-3b4ab11b85cfc85d47da751713ca98bed429f2d9.jar" />
+    </item>
+    <item
+        jar="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-375a4f315730ea7ab2a0b16980008f48ce1483f6.jar" />
+    </item>
+    <item
+        jar="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/classes-6db619df8f12683ef91e2be4c9f59a40db19b369.jar" />
+    </item>
+    <item
+        jar="/Users/sjayanna/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-02d487ae8f8e0234fe16d3930324a07ce4d25b47.jar" />
+    </item>
+    <item
+        jar="/Users/sjayanna/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-bd0087bbfe6e0b80c752295a3c49cd75d7bf2443.jar" />
+    </item>
+    <item
+        jar="/Users/sjayanna/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-913b01c0ce8033c69f37f9e11024a389e07b91db.jar" />
+    </item>
+    <item
+        jar="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-88b130e6aa2777ed92adcf36b3c655d8aad63a0a.jar" />
+    </item>
+    <item
+        jar="/Users/sjayanna/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-9ab1c4f8527aa8daa864cd1c050d7bf84266bad0.jar" />
+    </item>
+    <item
+        jar="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/codepath-utils-432c96c36cb0f5d6d0d95ae34b80e58250961697.jar" />
+    </item>
+    <item
+        jar="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-dbecbb3578adf170c82f21b3309a0ba509fac1d6.jar" />
+    </item>
+
+</items>

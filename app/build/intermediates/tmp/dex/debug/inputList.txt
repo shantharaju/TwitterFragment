@@ -1,0 +1,12 @@
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/classes/debug
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-913b01c0ce8033c69f37f9e11024a389e07b91db.jar
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/codepath-utils-432c96c36cb0f5d6d0d95ae34b80e58250961697.jar
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/classes-7e2f3c8949ee8fab84ca97a0a22f79ee6d824c2e.jar
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-dbecbb3578adf170c82f21b3309a0ba509fac1d6.jar
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-bd0087bbfe6e0b80c752295a3c49cd75d7bf2443.jar
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-375a4f315730ea7ab2a0b16980008f48ce1483f6.jar
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-02d487ae8f8e0234fe16d3930324a07ce4d25b47.jar
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-9ab1c4f8527aa8daa864cd1c050d7bf84266bad0.jar
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-88b130e6aa2777ed92adcf36b3c655d8aad63a0a.jar
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/classes-6db619df8f12683ef91e2be4c9f59a40db19b369.jar
+/Users/sjayanna/AndroidStudioProjects/TwitterFragment/app/build/intermediates/pre-dexed/debug/classes-3b4ab11b85cfc85d47da751713ca98bed429f2d9.jar
